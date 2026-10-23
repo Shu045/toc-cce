@@ -1,0 +1,4 @@
+node_modules
+.next
+*.exe
+.DS_Store
